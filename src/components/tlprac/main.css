@@ -1,0 +1,13 @@
+.example-modal-sizes-title-sm{
+background-color: aqua;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
